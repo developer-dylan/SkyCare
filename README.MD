@@ -141,12 +141,3 @@ Si tienes preguntas o necesitas ayuda:
 ⭐ Si este proyecto te ha sido útil, ¡no olvides darle una estrella!
 ```
 
-Este README proporciona una documentación completa de tu proyecto SkyCare, incluyendo:
-
-- **Descripción clara** del propósito de la aplicación
-- **Funcionalidades principales** basadas en los commits visibles
-- **Stack tecnológico** según las estadísticas del repositorio
-- **Integraciones con APIs** meteorológicas (inferidas por la funcionalidad)
-- **Instrucciones de instalación** y uso
-- **Estructura del proyecto** basada en los archivos visibles
-- **Guías de contribución** y información del autor
