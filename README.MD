@@ -139,5 +139,3 @@ Si tienes preguntas o necesitas ayuda:
 ---
 
 ⭐ Si este proyecto te ha sido útil, ¡no olvides darle una estrella!
-```
-
